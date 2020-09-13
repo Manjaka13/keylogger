@@ -1,1 +1,2 @@
 # keylogger
+This is a simple keylogger for windows OS. Compile and run the program, it will monitor all keys, clicks and everything that will be typed. To stop the program go to task manager and kill keylogger.exe the program will then close and save automatically everything that it has monitored into the file capture.txt near to it.
